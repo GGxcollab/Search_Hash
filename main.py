@@ -10,12 +10,11 @@ print(search_hashs)
 
 # abrir o Chrome
 pyautogui.PAUSE = 0.5
-
 pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 
-time.sleep(3)
+time.sleep(20)
 
 # Percorre pela lista "search_hashs" e abre cada hash em paginas diferentes
 for hash in search_hashs['Search_Paginas']:
@@ -32,7 +31,7 @@ for hash in search_hashs['Search_Paginas']:
     # navega ate o "search" atraves do tab
     pyautogui.press('tab', presses=10)
     pyautogui.press("enter")
-    time.sleep(2)
+    time.sleep(1)
 
     # Entra no espaço de escrita e preescreve a hash que vai ser utilizada pelo txt "pags_pesquisa1"
     pyautogui.press('tab')
