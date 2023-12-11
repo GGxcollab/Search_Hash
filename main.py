@@ -23,7 +23,7 @@ pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 
-time.sleep(5)
+time.sleep(8)
 
 
 # Percorre pela lista "search_hashs" e abre cada hash em paginas diferentes
@@ -36,7 +36,7 @@ for hash in search_hashs['Search_Paginas']:
     pyautogui.press("enter")
 
     # esperar o site carregar
-    time.sleep(3)
+    time.sleep(5)
 
     # navega ate o "search" atraves do tab
     pyautogui.press('tab', presses=10)
