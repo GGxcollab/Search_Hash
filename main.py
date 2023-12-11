@@ -23,7 +23,7 @@ pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 
-time.sleep(8)
+time.sleep(5)
 
 
 # Percorre pela lista "search_hashs" e abre cada hash em paginas diferentes

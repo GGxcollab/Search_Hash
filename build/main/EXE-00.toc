@@ -1,10 +1,9 @@
 ('C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
- 'Serviços\\Documentos\\Search_Hash\\build\\main\\main.exe',
+ 'Serviços\\Documentos\\Verificador_IOC\\build\\main\\main.exe',
  False,
  False,
  True,
- 'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
- 'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ 'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -32,66 +31,65 @@
  None,
  None,
  'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
- 'Serviços\\Documentos\\Search_Hash\\build\\main\\main.pkg',
+ 'Serviços\\Documentos\\Verificador_IOC\\build\\main\\main.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\PYZ-00.pyz',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\localpycs\\struct.pyc',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'Serviços\\Documentos\\Verificador_IOC\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('pyi_rth_inspect',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('pyi_rth_pkgutil',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('pyi_rth_multiprocessing',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_traitlets',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_traitlets.py',
    'PYSOURCE'),
   ('pyi_rth_pkgres',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
    'PYSOURCE'),
   ('pyi_rth__tkinter',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
   ('main',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\main.py',
+   'Serviços\\Documentos\\Verificador_IOC\\main.py',
    'PYSOURCE')],
  [],
  False,
  False,
- 1702308463,
+ 1702315638,
  [('runw.exe',
-   'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
-   'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Users\\geovanne.sales\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')
