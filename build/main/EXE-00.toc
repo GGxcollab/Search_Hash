@@ -89,7 +89,7 @@
  [],
  False,
  False,
- 1702303208,
+ 1702308463,
  [('runw.exe',
    'C:\\Users\\geovanne.sales\\OneDrive - BB Tecnologia e '
    'Serviços\\Documentos\\Search_Hash\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
