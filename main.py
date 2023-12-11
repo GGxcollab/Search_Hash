@@ -36,7 +36,7 @@ for hash in search_hashs['Search_Paginas']:
     pyautogui.press("enter")
 
     # esperar o site carregar
-    time.sleep(5)
+    time.sleep(3)
 
     # navega ate o "search" atraves do tab
     pyautogui.press('tab', presses=10)
